@@ -37,12 +37,12 @@
     height: 302px;
     left: 22px;
     top: 17px;
-    background: url(./photo/süni.jpg);
+    background: url(süni.jpg);
     border-radius: 8px;
 }
 
 #img_1:hover {
-    background: url(./photo/image2.jpg);
+    background: url();
 }
 
 #top {
